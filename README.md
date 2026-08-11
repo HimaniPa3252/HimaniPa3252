@@ -47,10 +47,6 @@ A Node.js and Express messaging prototype featuring username-based login, server
 
 <div align="center">
 
-![Himani's GitHub stats](https://github-readme-stats.vercel.app/api?username=HimaniPa3252&show_icons=true&hide_border=true&theme=transparent)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HimaniPa3252&layout=compact&hide_border=true&theme=transparent)
-
 </div>
 
 ---
